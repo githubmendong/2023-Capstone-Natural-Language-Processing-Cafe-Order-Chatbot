@@ -40,4 +40,4 @@
 
 **Python 프로그래밍:**<br/>  모델 학습, 데이터 처리, 알고리즘 구현 등에 사용됩니다.
 
-![image](https://github.com/githubmendong/2023-Capstone-Natural-Language-Processing-Cafe-Order-Chatbot/assets/120146699/6c04b1d1-60d3-4569-96be-0d5537e7e615)
+![image](https://github.com/githubmendong/2023-Capstone-Natural-Language-Processing-Cafe-Order-Chatbot/assets/120146699/e62685bd-bf65-4aad-ba1c-e59785788fdc)
