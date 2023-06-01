@@ -1,6 +1,6 @@
 # 2023-Capstone-Natural-Language-Processing-Cafe-Order-Chatbot
 
-# 2023-05-29 중간 보고
+# 2023-06-02 중간 보고
 **프로젝트의 목적:**<br/> 
 `이 프로젝트의 주된 목표는 자연어 처리 분야의 두 주요 모델인 BERT와 GPT-4를 이해하고 활용하는 것입니다.<br/> 
 이 모델들은 현재 가장 고도의 인공지능 언어 처리 기능을 제공하며, 이를 통해 자연어 처리 분야의 이해도를 높이고자 합니다.
@@ -29,7 +29,8 @@
 # 사용 기술 이해
 **언어 모델링:**<br/>  Transformer 기반 모델인 GPT-2와 GPT-3를 활용합니다. 이들은 대화형 AI 개발에 필수적입니다.
 
-**파인튜닝(Fine-tuning):**<br/>  이 작업은 GPT-2 또는 GPT-3를 특정 작업에 맞게 조정하는 과정입니다. 이를 통해 모델이 특정 분야나 언어에 대해 더 정확하게 대응할 수 있습니다.
+**파인튜닝(Fine-tuning):**<br/>  이 작업은 GPT-2 또는 GPT-3를 특정 작업에 맞게 조정하는 과정입니다.<br/>
+이를 통해 모델이 특정 분야나 언어에 대해 더 정확하게 대응할 수 있습니다.
 
 **강화학습(Reinforcement Learning):**<br/>  Proximal Policy Optimization (PPO) 및 Reward Learning from Human Feedback (RLHF) 방법을 사용하여 모델을 더욱 개선합니다.
 
@@ -39,3 +40,4 @@
 
 **Python 프로그래밍:**<br/>  모델 학습, 데이터 처리, 알고리즘 구현 등에 사용됩니다.
 
+![image](https://github.com/githubmendong/2023-Capstone-Natural-Language-Processing-Cafe-Order-Chatbot/assets/120146699/6c04b1d1-60d3-4569-96be-0d5537e7e615)
