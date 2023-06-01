@@ -25,3 +25,17 @@
 <br/> 
 따라서
 
+
+# 사용 기술 이해
+**언어 모델링:**<br/>  Transformer 기반 모델인 GPT-2와 GPT-3를 활용합니다. 이들은 대화형 AI 개발에 필수적입니다.
+
+**파인튜닝(Fine-tuning):**<br/>  이 작업은 GPT-2 또는 GPT-3를 특정 작업에 맞게 조정하는 과정입니다. 이를 통해 모델이 특정 분야나 언어에 대해 더 정확하게 대응할 수 있습니다.
+
+**강화학습(Reinforcement Learning):**<br/>  Proximal Policy Optimization (PPO) 및 Reward Learning from Human Feedback (RLHF) 방법을 사용하여 모델을 더욱 개선합니다.
+
+**분산 컴퓨팅(Distributed Computing):**<br/>  ColossalAI는 분산 처리를 지원하여 매우 큰 모델을 훈련할 수 있습니다.
+
+**데이터 핸들링:**<br/>  JSON 등의 데이터 형식을 이용하여 학습 데이터를 처리합니다.
+
+**Python 프로그래밍:**<br/>  모델 학습, 데이터 처리, 알고리즘 구현 등에 사용됩니다.
+
